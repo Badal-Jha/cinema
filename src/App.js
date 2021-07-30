@@ -10,3 +10,5 @@ function App() {
 }
 
 export default App;
+//<i class="far fa-heart"></i>
+//<i class="fas fa-heart"></i>
