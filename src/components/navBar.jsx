@@ -22,11 +22,7 @@ const NavBar = () => {
           <ul className="navbar-nav">
             <li className="nav-item">
               {/* NavLink is used in place of link to display active link */}
-              <NavLink
-                className="nav-link active"
-                aria-current="page"
-                to="/movies"
-              >
+              <NavLink className="nav-link " aria-current="page" to="/movies">
                 Movies
               </NavLink>
             </li>
